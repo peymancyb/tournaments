@@ -1,0 +1,10 @@
+export const SEARCH = {
+  PENDING: "SEARCH_PENDING",
+  SUCCESS: "SEARCH_SUCCESS",
+  ERROR: "SEARCH_ERROR",
+  RESET: "RESET_SEARCH_REDUCER"
+};
+
+export const ADD_ITEM = "ADD_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const UPDATE_STORE = "UPDATE_STORE";
